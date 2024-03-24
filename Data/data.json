@@ -1,0 +1,14 @@
+{
+    "students": [
+        {"student_id": 1, "name": "Tinatin", "surname": "Tsakadze", "age": 20},
+        {"student_id": 2, "name": "Cillian", "surname": "Murphy", "age": 47}
+    ],
+    "advisors": [
+        {"advisor_id": 101, "name": "Mariam", "surname": "Kipshidze", "age": 24},
+        {"advisor_id": 102, "name": "Tsotne", "surname": "Sharvadze", "age": 25}
+    ],
+    "student_advisor": [
+        {"student_id": 1, "advisor_id": 101},
+        {"student_id": 2, "advisor_id": 102}
+    ]
+}
